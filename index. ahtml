@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lange="ky">
+<head>
+     <meta charset="UTF-8">
+     <title>Башкы бет </title> 
+</head>
+<body>
+    <h1>Менин сайтыма кош келиңиз!</h1>
+    <p>Менин атым Исламбек.</p>
+    <p>Бул менин бирнчи эки бетүү сайтым.</p>
+    <a href="hobbies.html">Менин хоббилерим</a>
+</body>
+</html>
